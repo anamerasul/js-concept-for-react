@@ -53,4 +53,4 @@ const {weight,address}=employee.specification
 
 const[firstlang]=employee.lang
 
-const {brand}=employee?.specification.watch
+const {brand}=employee?.specification?.watch
