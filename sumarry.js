@@ -55,3 +55,6 @@ const obj={
         x:x,
         y:y,
 }
+
+// shorthand
+const obj1={x , y}
